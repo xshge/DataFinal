@@ -7,5 +7,9 @@ body{
 }
 
 form{
-    padding-bottom: 1rem;
+    padding-bottom: 5rem;
+}
+img{
+    width: 25vw;
+    height: fit-content;
 }
